@@ -1,4 +1,4 @@
-Support Vector Machines (SVM)
+# Support Vector Machines (SVM)
 
 ## 📌 Objective
 The goal of this task is to build and evaluate **Support Vector Machine (SVM)** models for the binary classification of breast tumors (**Malignant vs Benign**) using the provided `breast-cancer.csv` dataset.  
